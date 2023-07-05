@@ -1,0 +1,14 @@
+{
+  "name": "simpleweb",
+  "version": "1.0.0",
+  "description": "udemy practice docker ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bizz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  }
+}
